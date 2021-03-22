@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/minesweeper
+minesweeper.so
+minesweeper.dylib
+minesweeper.dll
+minesweeper.a
+minesweeper.lib
+minesweeper-test-*
+*.exe
+*.o
+*.obj
+*.lst

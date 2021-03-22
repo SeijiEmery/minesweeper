@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Seiji Emery"
+	],
+	"copyright": "Copyright © 2021, Seiji Emery",
+	"dependencies": {
+		"raylib-d": "~>3.0.3"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "minesweeper",
+	"libs": [ "raylib" ]
+}
